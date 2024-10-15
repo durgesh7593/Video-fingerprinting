@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Processing Results</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/styles.css') }}"
+    />
+  </head>
+  <body>
+    <h1>Processing Results</h1>
+    <ul>
+      {% for file in files %}
+      <li>
+        <a href="{{ url_for('download_file', filename=file) }}">{{ file }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    <a href="{{ url_for('index') }}">Go Back</a>
+  </body>
+</html>

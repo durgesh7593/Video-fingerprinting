@@ -1,0 +1,7 @@
+Algorithm: spatio_temporal
+Total Frames Processed: 35
+Total Frames in Video: 211
+Time Required to Generate Fingerprints: 0.6300332546234131 seconds
+Time Complexity: O(n/static/uploads\sample_video2.mp4)
+Space Complexity: O(n)
+Determinism Check: True

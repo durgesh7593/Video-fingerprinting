@@ -1,0 +1,7 @@
+Algorithm: cnn_algorithm
+Total Frames Processed: 36
+Total Frames in Video: 211
+Time Required to Generate Fingerprints: 3.7484652996063232 seconds
+Time Complexity: O(n/static/uploads\sample_video2.mp4)
+Space Complexity: O(n)
+Determinism Check: True

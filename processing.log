@@ -1,0 +1,24 @@
+2024-10-14 22:30:25,366 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-14 22:30:25,366 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-14 22:30:25,368 - INFO -  * Restarting with stat
+2024-10-14 22:30:26,476 - WARNING -  * Debugger is active!
+2024-10-14 22:30:26,480 - INFO -  * Debugger PIN: 727-347-882
+2024-10-14 22:30:51,174 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-14 22:30:51,182 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-14 22:30:51,183 - INFO -  * Restarting with stat
+2024-10-14 22:30:52,244 - WARNING -  * Debugger is active!
+2024-10-14 22:30:52,247 - INFO -  * Debugger PIN: 727-347-882
+2024-10-14 22:33:43,058 - INFO -  * Detected change in 'C:\\Users\\Durgesh\\OneDrive\\Desktop\\flask\\app.py', reloading
+2024-10-14 22:33:43,182 - INFO -  * Restarting with stat
+2024-10-14 22:33:44,355 - WARNING -  * Debugger is active!
+2024-10-14 22:33:44,358 - INFO -  * Debugger PIN: 727-347-882
+2024-10-14 22:33:52,412 - INFO -  * Detected change in 'C:\\Users\\Durgesh\\OneDrive\\Desktop\\flask\\app.py', reloading
+2024-10-14 22:33:52,530 - INFO -  * Restarting with stat
+2024-10-14 22:33:53,621 - WARNING -  * Debugger is active!
+2024-10-14 22:33:53,624 - INFO -  * Debugger PIN: 727-347-882
+2024-10-14 22:34:01,677 - INFO -  * Detected change in 'C:\\Users\\Durgesh\\OneDrive\\Desktop\\flask\\processing\\main.py', reloading
+2024-10-14 22:34:01,805 - INFO -  * Restarting with stat
+2024-10-14 22:34:15,118 - INFO -  * Restarting with stat
+2024-10-14 22:34:19,389 - INFO -  * Restarting with stat

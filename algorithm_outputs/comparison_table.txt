@@ -1,0 +1,12 @@
+            Algorithm  Total Frames Processed  Total Frames in Video Execution Time (s)                       Time Complexity Space Complexity  Determinism Check  v1_vs_v2_Same  Similarity Check Time (s)
+      perceptual_hash                      36                    211               0.87 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.558397
+      difference_hash                      36                    211               0.83 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.453976
+         average_hash                      36                    211               0.83 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.490300
+block_mean_value_hash                      36                    211               0.85 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.511242
+                 sift                      36                    211               6.27 O(n/static/uploads\sample_video2.mp4)             O(n)              False           True                  11.836589
+                  fmt                      36                    211               1.30 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   2.645187
+      color_histogram                      36                    211               0.66 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.292274
+        motion_vector                      35                    211               9.16 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                  18.759206
+      spatio_temporal                      35                    211               0.63 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.297008
+  keyframe_extraction                      35                    211               0.68 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.435174
+      frame_signature                      36                    211               0.80 O(n/static/uploads\sample_video2.mp4)             O(n)               True           True                   1.626251

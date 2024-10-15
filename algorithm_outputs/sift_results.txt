@@ -1,0 +1,7 @@
+Algorithm: sift
+Total Frames Processed: 36
+Total Frames in Video: 211
+Time Required to Generate Fingerprints: 6.269444227218628 seconds
+Time Complexity: O(n/static/uploads\sample_video2.mp4)
+Space Complexity: O(n)
+Determinism Check: False
